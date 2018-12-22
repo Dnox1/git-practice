@@ -1,3 +1,0 @@
-Name: David
-Age: 36
-Favoutire Color: Blue Dark
